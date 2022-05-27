@@ -12,7 +12,7 @@
   &-item {
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     font-size: $small-font-size;
     color: rgba($body-color, .5);
     padding: .25rem .5rem;
